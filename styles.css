@@ -37,6 +37,7 @@ body {
   background-color: re;
   overflow: hidde;
   background-image: url(./images/bg-pattern-top-desktop.svg);
+  background-size: 1440px;
 }
 
 .top {
@@ -186,7 +187,7 @@ h5 {
   #anne {
     transform: translateY(0px);
   }
-  .checked{
+  .checked {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -194,9 +195,8 @@ h5 {
     margin: 0;
     clear: both;
   }
-  .rated{
+  .rated {
     display: flex;
-    flex-direction: row;   
-    }
-  
+    flex-direction: row;
+  }
 }
